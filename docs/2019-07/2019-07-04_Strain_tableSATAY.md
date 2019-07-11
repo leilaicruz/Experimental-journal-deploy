@@ -1,4 +1,4 @@
-# Strain construction
+# 2019-07-04 Strain construction
 
 | Strain name  |Genotype   | Nickname  |Comments   |
 |:---:|---|---|:---|
