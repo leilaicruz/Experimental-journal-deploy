@@ -52,7 +52,6 @@ module.exports = {
     title: "Experimental-Journal-PhD",
     //description : "use for meta description",
     base: "/" + process.env.REPOSITORY + "/",
-    base: "/Experimental-journal-deploy/"
     config: (md) => {
         md.options.linkify = true
     },
