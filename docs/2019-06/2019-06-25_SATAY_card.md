@@ -1,5 +1,3 @@
-# 2019-06-25 SATAY experimental card
-
 ## What is the question?
 
 Main question:

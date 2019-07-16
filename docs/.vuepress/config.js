@@ -60,5 +60,6 @@ module.exports = {
     }
 };
 
+
 //check for sidebar
 console.log(sidebarArray);

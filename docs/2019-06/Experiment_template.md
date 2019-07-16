@@ -1,5 +1,5 @@
 
-# Title : Experimental Template
+# Title
 
 # Date
 

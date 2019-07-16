@@ -1,6 +1,6 @@
 
 
-# Title: 2019-06-03  Design of new primers, for the right homology arm, for transformation that avoid the overlap with the RGA1 gene.
+# Title:  Design of new primers, for the right homology arm, for transformation that avoid the overlap with the RGA1 gene.
 # Date
 03062019
 # Objective
@@ -14,14 +14,14 @@ Primer design in SnapGene
 [Link to the SnapGeneFile](C:\Users\linigodelacruz\Documents\PhD_2018\Documentation\SATAY\Primers_sequence_for_ADE_deletion\Chrom_XV_for_ade2.dna)
 # Results
 ### New primer design:
- ![](../Images/solving_overlapping_with_rga1_gene.png)
+ ![](../images/solving_overlapping_with_rga1_gene.png)
 
 ### Overlap PCR Extension with the new primer 6
 
-![](../Images/OEP1_map.png)
+![](../images/OEP1_map.png)
 
 Right bands :)
-![](../Images/OEP_1_edited.png)
+![](../images/OEP_1_edited.png)
 * concentration after purification: 803ng/ul
 * volume: 8ul
 # Conclusion

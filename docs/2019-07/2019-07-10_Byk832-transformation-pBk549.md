@@ -1,5 +1,5 @@
 
-# Title : 2019-07-10 Byk832 transformation using pBK549 plasmid
+# Title : Byk832 transformation using pBK549 plasmid
 
 # Date
 
@@ -25,5 +25,14 @@
 - I plate all cells 200ul MiliQ from sample 1 and 190ul cells +10 ul Miliq from sample 2 and 10ul cells +190 ul MiliQ , ad all from the negative control in **-URA+2x ADE**. This means 40ul of 1000x ADE stock in a 20ml plate.
 
 # Results
+- Today, 12072019 I can see some colonies in the selective plates , from the 190ul cells+10ul MiliQ plating. Byk832+ 100ng pBK549 plasmid 🙂
+![](../Images/colonies-2-days-incubation-ura-with-3xadenine.jpg)
+- Still the efficiency is very low compared with Agnes transformation from ETH 👇
+![](../Images/Transfo_20190625_Agnes-ETH.jpg)
+- On 15072019 after weekend incubation in 30C
+
+  - pink cells!
+![](../images/byk832+100ng-pbk549+ade.jpg)
 
 # Conclusion
+We have to streak the colonies onto -ade plates and see that we have only few gowth and a lot of growth on -ura
