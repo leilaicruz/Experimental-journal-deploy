@@ -1,30 +1,30 @@
-# Title: 2019-05-20 URA transformation in ADE2 locus
+# Title: URA transformation in ADE2 locus
 
-## Date
+# Date
 20052019
-## Objective
+# Objective
 To remove the ade2 gene from yll3a and insert the URA+ promoter in its locus.
-## Method
+# Method
 [Yeast transformation protocol](C:/Users/linigodelacruz/Documents/PhD_2018/Documentation/SATAY/Yeast_transformation/Protocol_Yeast_Transformation.pdf)
 
-### Insert:
+## Insert:
  * PCR product of an Overlap Extension PCR that glue together, the homology arms around the ADE2 gene and the URA gene + native URA promotor. The fragment has a total length of 1984bp. The URA gene + promotor has a length of 1019 bp.
 
-### Homology arms:
+## Homology arms:
 * left homology arm: 215 bp
 * right homology arm: 439bp
 * No overlap with other sequences on the S. cerevisae genome [Result of blasting](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 * 2,5ng of the PCR product was used for it.
 * OD starting colony : 3
 
-## Results
+# Results
 * The negative control, did not grow :) on the selection plate (-URA). The negative control is yll3a  with any insert on the mixture.
 * I have more than 100 transformants colonies growing on -URA. However, after 5 days of incubation none of them turned pink, as expected if they dont produce ADE2 gene :( :( .
 * High variability in colony sizes, indicating different genetic backgrounds (:( 🤔)
 ### Colony PCR
-![](../Images/colony_pcr_gel.png)
 
-## Conclusions
+![](../images/colony_pcr_gel.png)
+# Conclusions
 
 1. The small colonies that grew on -URA has the same band size as the control strain yll3a, meaning, that they didnt insert the URA gene + promoter on the ADE2 locus.
 2. One big colony show two bands, one in the control size and the other one in the correct size, if the URA gene is integrated in ADE2 locus. This is puzzling.
