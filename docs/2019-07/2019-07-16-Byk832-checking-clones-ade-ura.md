@@ -32,6 +32,9 @@ If they give many clones, it is possible that a significant fraction of cells ha
 
 # Next steps
 - Check Byk832+pbk549 density in -ura plates without autoclaving the CSM mixture and on the -ura fully autoclaved plates from the kitchen of the lab with and without extra adenine.
-- Pursue with clones 16, 17 and 4 from the growth they show in -ura and -- ade plates. They grow nicely in -ura (yet not fully) and form few clones(~10) on -ade.  
+ ![](../images/-ura-without-autoclaving-vs-autoclaving-plates.jpg)
+- Pursue with clones 16, 17 and 4 from the growth they show in -ura and -- ade plates. They grow nicely in -ura (yet not fully) and form few clones(~10) on -ade.
+
+> I made glycerol stocks of those clones (19072019)
 
 # Conclusion
