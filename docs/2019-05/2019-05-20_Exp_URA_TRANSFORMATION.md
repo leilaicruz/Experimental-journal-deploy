@@ -23,7 +23,7 @@ To remove the ade2 gene from yll3a and insert the URA+ promoter in its locus.
 * High variability in colony sizes, indicating different genetic backgrounds (:( 🤔)
 ### Colony PCR
 
-![](images/colony_pcr_gel.png)
+![](../images/colony_pcr_gel.png)
 # Conclusions
 
 1. The small colonies that grew on -URA has the same band size as the control strain yll3a, meaning, that they didnt insert the URA gene + promoter on the ADE2 locus.
