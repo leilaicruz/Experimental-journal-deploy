@@ -1,4 +1,4 @@
-# Title: Sequencing of ylic133 biological replicates
+# Title: 22072019-Sequencing of ylic133 biological replicates :ok: :white_check_mark:
 
 # Date
 22072019
@@ -25,4 +25,4 @@ To finally check that neither the adenine , neither ura is in the genome of thes
 
 
 # Conclusion
-Everything did work! So, now I can continue with the crossing of the strains with bem1 deleted, bem1bem3d, bem1bem3dnrp1d, and dbem1dbem3dnrp1dbem2. 
+Everything did work! So, now I can continue with the crossing of the strains with bem1 deleted, bem1bem3d, bem1bem3dnrp1d, and dbem1dbem3dnrp1dbem2.

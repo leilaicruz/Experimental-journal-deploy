@@ -1,5 +1,5 @@
 
-# Title : DNA extraction of ylic133: ura3- ade2- clones anad PCR
+# Title : 17072019-DNA extraction of ylic133: ura3- ade2- clones anad PCR :ok: :white_check_mark:
 
 # Date
 Wednesday 17072019

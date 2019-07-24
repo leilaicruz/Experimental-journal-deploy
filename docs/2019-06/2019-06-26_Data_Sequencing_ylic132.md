@@ -1,5 +1,5 @@
 
-# Title: Sequencing of the URA integration in ade2 locus in ylic132
+# Title: 26062019-Sequencing of the URA integration in ade2 locus in ylic132 :white_check_mark:
 
 # Date:
 26062019
@@ -23,4 +23,4 @@ I use primers 24 and primer 26 to do the PCR on the genomic DNA of ylic132 to se
 # Conclusion
 
 - point mutation of a 'C' instead of a 'T' in the ura promoter, however, it does not seem to cause any affect.
-- I will do sequencing of 7 more biological replicates of ylic132 to compare with this one. 
+- I will do sequencing of 7 more biological replicates of ylic132 to compare with this one.

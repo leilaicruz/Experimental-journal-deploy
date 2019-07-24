@@ -1,8 +1,9 @@
-# Strain construction
+# Strain construction database :sparkles:
 
 | Strain name  |Genotype   | Nickname  |Comments   |
 |:---:|---|---|:---|
 | ByK832  | *W303 ura3^0 ade2::NAT* |   |   |
+| ByK832-T  | *W303 ura3^0 ade2::NAT + pBK549* |   |   |
 | ByK352  | *W303 ura3^0 ade2::HIS3*  |   |   |
 | ylic128  | *W303 , Mating type **a** <br> bem1::G418 <br> bem3::NAT nrp1::HYGRO ura3^0*  |   |  From sporulation of [yLL135](M:\tnw\bn\ll\Shared\Lab-info\Strains,Plasmids,primers\Strains\Liedewij's-yeast-strains.pdf), <br> not sequenced  |
 | ylic130  | *W303, Mating type **a** <br> bem1::G418 <br> bem2::leu2 ura3^0* |   | From sporulation of [yLL135](M:\tnw\bn\ll\Shared\Lab-info\Strains,Plasmids,primers\Strains\Liedewij's-yeast-strains.pdf), <br> not sequenced   |

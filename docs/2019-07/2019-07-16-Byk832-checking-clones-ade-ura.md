@@ -1,4 +1,4 @@
-# Title : Check of growth in -ade and -ura of 10 clones of Byk832+pbk549
+# Title : 15072019-Check of growth in -ade and -ura of 10 clones of Byk832+pbk549 :ok:
 
 # Date
 Monday 15072019

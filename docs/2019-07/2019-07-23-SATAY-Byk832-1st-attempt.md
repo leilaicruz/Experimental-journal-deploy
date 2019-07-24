@@ -1,4 +1,4 @@
-# Title: SATAY 1st attempt with Byk832 transfromed with pBK549
+# Title: 23072019-SATAY 1st attempt with Byk832-T :pray:
 
 # Date
 Tuesday, 23072019 -
@@ -33,7 +33,7 @@ To learn about the whole technique and detect the main issues and bottlenecks wh
             - score after 2 days:
             - [ ] Expect ~200=400 ADE+ clones/mL culture, i.e. ~0.01%-0.02% of the total number of cells.
                 *These are cells that repaired the ADE2 gene by homologous recombination WITHOUT transposition*
-    - The OD should have reached 4-5 aftre 20h of induction. 
+    - The OD should have reached 4-5 aftre 20h of induction.
 
 
 4. **Reseed**

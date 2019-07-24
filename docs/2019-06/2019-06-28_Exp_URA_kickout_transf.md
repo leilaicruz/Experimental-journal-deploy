@@ -1,4 +1,4 @@
-# Title: ylic132  transformation with the OEP2 (unsuccesful)
+# Title: 26062019-ylic132  transformation with the OEP2 (unsuccesful) :x: :disappointed:
 
 # Date
 26062019
@@ -43,4 +43,4 @@ Explanation: **I did not do the recovery step required when transforming with a 
 - [ ] Do 2 transformations using both recover steps:
 
     - Growth 200ul cells in 1ml of YPD during 1-4 hours, in 30C, then spin down the cells and resuspend in sterile MiliQ and then plate them using 20ul cells+150ul MiliQ, and then 180ul cells
-    - Resuspend the cells in 1ml of YPD. Plate 200ul culture in YPD and next morning replica plate in the selection plate. And save the rest of the cells in the 1ml YPD for overnight culture and plating next morning in the selection plate. 
+    - Resuspend the cells in 1ml of YPD. Plate 200ul culture in YPD and next morning replica plate in the selection plate. And save the rest of the cells in the 1ml YPD for overnight culture and plating next morning in the selection plate.

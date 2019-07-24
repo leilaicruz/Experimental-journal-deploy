@@ -1,5 +1,5 @@
 
-# Title : Byk832 transformation using pBK549 plasmid
+# Title : 10072019-Byk832 transformation using pBK549 plasmid (:ok:)
 
 # Date
 
