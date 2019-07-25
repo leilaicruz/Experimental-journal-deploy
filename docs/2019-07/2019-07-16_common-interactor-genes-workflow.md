@@ -1,12 +1,18 @@
 
-## 16-07-2019-Script in python to find the most connected genes to a query gene. :milky_way: 
+## 16-07-2019-Script in python to find the most connected genes to a query gene. :milky_way:
 
 ### Goal
 From the physical and genetic interactors of a specific gene, I am interested in finding which of the interactors of the interactors are also interactors of the initial query gene.
 
-The following picture may explain this:
+This calculation can maybe triggers hypothesis about how  is the correlation in the amount of connectivity of one gene to another gene and the type of interactions they are more prone to share.
+
+Perhaps, it is like this:
+![](../images/Model_cartoon-05.png)
+
+The following picture depicts what I am looking for in the [SGD database](https://www.yeastgenome.org/) for every gene of interest:
 ![](../images/cartoon-for-common-genes-workflow07.png)
 
+The following python code depicts what I have done, that can be reused and improved  for other purposes.
 ## Python code
 
 ```python
@@ -37,7 +43,7 @@ data_go.set_index(col_label_go[1],inplace=True)
 
 
 d2 = defaultdict(dict)
-query=['BEM1']
+query=['BEM1'] # here you can put the gene of interest
 # giant for loop
 names1 = query
 i=-1
