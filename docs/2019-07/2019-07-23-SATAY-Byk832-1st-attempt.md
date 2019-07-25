@@ -30,13 +30,26 @@ To learn about the whole technique and detect the main issues and bottlenecks wh
 
     - Incubate at 30C, 140-160 rpm, to OD=4-6 (around 20h)
     - It is recommended to start with 3-4 precultures and later chose which to reseed in SD-ADE 2% Glucose.
-
+    #### Benoit Data
     | Strain  | Preculture  |   |   |
     |---|---|---|---|
-    |   | OD start (25072019-10:50am) |  OD stop |  Time  |
-    | Byk832T_1  | 0.2  |   |   |
-    | Byk832T_2  | 0.2  |   |   |
-    | Byk832T_3  | 0.2  |   |   |
+    |   | OD start |  OD stop |  Time  |
+    | strain # 1 | 0.234  | 4.33  |  20h |
+    | strain # 2  | 0.233  | 4.02  | 20h  |
+    | strain # 3  | 0.235 |  3.85 | 20h  |
+    | strain # 4  | 0.227  | 4.04  | 20h  |
+    | strain # 5  | 0.229 | 3.94  |  20h |
+    | strain # 6  | 0.235  | 4.07  | 20h  |
+    #### Our data
+    | Strain  | Preculture  |   |   |  |
+    |---|---|---|---|---|
+    |   | OD start (25072019-14:15pm) |  OD stop |  Time  | Technical replicate (2)|
+    | Byk832T_1  | 0.2396  |   |   | Enzo |
+    | Byk832T_2  | 0.1912  |   |   | Enzo |
+    | Byk832T_3  | 0.3153  |   |   | Enzo |
+    | Byk832T_1  | 0.1939  |   |   | Leila |
+    | Byk832T_2  | 0.1773  |   |   | Leila |
+    | Byk832T_3  | 0.2683  |   |   | Leila |
 
 3. **Induction**
 
@@ -47,9 +60,9 @@ To learn about the whole technique and detect the main issues and bottlenecks wh
         - Spread 200ul of this inoculum on SD-ADE
         - Dilute the inoculum 1000x, spread 200ul on SD-URA and SD complete
             - score after 2 days:
-            - [ ] Expect ~200=400 ADE+ clones/mL culture, i.e. ~0.01%-0.02% of the total number of cells.
+            - [ ] Expect ~200-400 ADE+ clones/mL culture, i.e. ~0.01%-0.02% of the total number of cells.
                 *These are cells that repaired the ADE2 gene by homologous recombination WITHOUT transposition*
-    - The OD should have reached 4-5 aftre 20h of induction.
+    - The OD should have reached 4-5 after 20h of induction.
 
 
 4. **Reseed**
