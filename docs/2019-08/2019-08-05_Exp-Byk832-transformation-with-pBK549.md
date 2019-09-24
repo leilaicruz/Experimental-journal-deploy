@@ -1,4 +1,4 @@
-# Title: 05082019-Byk832 transformation with pBk549 :) :white_check_mark:
+# Title: 05082019-Byk832 transformation with pBk549 :ok: :white_check_mark:
 
 # Date
 05082019
@@ -55,6 +55,10 @@ To succesfully transform Byk832 :pray: with the pBK549 plasmid, because so far w
 - The efficiency in terms of number of colonies per strain is , first yll3a, Byk832 and ylic133_1. Though the Byk832 has not grown completely yet, but you can see the small colonies there.
 
 ![](../images/12082019-Byk832-ylic133-yll3a+pBk549-colonies.png)
+
+21082019:  Transformation plates after 10 days in room temperature, to better see the efficiency, it is like [Benoit and Agnes obtained](../2019-07/2019-07-10_Byk832-transformation-pBk549.md)
+
+![](../images/Byk832T-ylic133T-21082019-colonies.png)
 
 # Conclusion
 - The plasmid could be integrated in other strains , and in the case of W303 background in wild type reach it like the efficiency of Benoit in his transformation with Byk832 (or more).
