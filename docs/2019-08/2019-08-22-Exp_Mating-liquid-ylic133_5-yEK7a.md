@@ -1,5 +1,7 @@
 
-# Title: 22082019 Mating using liquid drops of yEK7a and ylic133_5
+# Title: <font color='#ee4466'> 22082019 Mating using liquid drops of yEK7a and ylic133_5 :broken_heart:
+
+<font color='black'>
 
 # Date
 22082019
@@ -12,7 +14,7 @@ Goal: To try to achieve a more efficient mating between ylic133 and yEK7a, becau
 - Next morning take a YPD agar plate and add 20ul of each dense liquid culture one on top of each other.
 - Microscopy time lapse imaging of the mixture of both strains 100ul of 150X yEK7a (highly dense) and ylic133_5 (no dense at all) no diluted , after being washed in non fluorescence media (CSM).
 - 23082019-Restreaking of the mated patch onto a YPD+G418+NAT+Hygro plate.
-- 26082019-Inoculation of 8 restreaked cells to sporulation next morning. 
+- 26082019-Inoculation of 8 restreaked cells to sporulation next morning.
 # Results
 - There are "weird structures" on the ylic133_5 well, flowers like structures.  It could be some sort of contamination, but which type?
 ![](../images/spining-mating-ylic133-yek7a-22082019.png)

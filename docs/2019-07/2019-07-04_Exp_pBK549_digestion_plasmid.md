@@ -33,4 +33,4 @@ Imaging
 ![](../Images/PBK549_SUCCESFUL_DIGESTION_PATTERN_2019-07-03_17hr_56min_edited.png)
 
 # Conclusion
-- It is important do use the maximum culture that it says on the protocol for good plasmid extraction. This time Enzo used 3ml , but previusly we were using 10ml , which was overkilling, and it was unsuccesful the digestion. It seems this was the key change to have a right pattern.
+- It is important to use the maximum culture that it says on the protocol for good plasmid extraction. This time Enzo used 3ml , but previusly we were using 10ml , which was overkilling, and it was unsuccesful the digestion. It seems this was the key change to have a right pattern.
