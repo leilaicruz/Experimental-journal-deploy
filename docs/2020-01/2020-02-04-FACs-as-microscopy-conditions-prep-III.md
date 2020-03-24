@@ -131,7 +131,7 @@ Insights from the Gal1 promoter
 
 ### Correlation between the GFP and sfGFP fluorophuores
 
-![Correlation between sfGFP and GFP fluorophuores exp_005 at 0.1%-gal](../images/Correlation-between-sfGFP-GFP-fluorophuores-exp_005-at-0.1%-gal.png){#fig:correlation width=50%}
+![Correlation between sfGFP and GFP fluorophuores exp_005 at 0.1%-gal](../images/Correlation-between-sfGFP-GFP-fluorophuores-exp_005-at-0.1-gal.png){#fig:correlation width=50%}
 
 ## Conclusion
 

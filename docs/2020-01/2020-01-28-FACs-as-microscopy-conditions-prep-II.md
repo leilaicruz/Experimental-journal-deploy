@@ -136,11 +136,11 @@ Maybe something weird happened from the incubation... (??)
 
 ### Correlation between the GFP and sfGFP fluorophuores
 
-![Out of range for comparing the GFP with the sfGFP expression at 2% between ywkd024 and ywkd065. The middle shaded area represents the lines y=1.5x , y=x and y=0.6x](../images/Correlation-between-sfGFP-GFP-fluorophuores-exp_004-at-2%-gal.png){#fig:correlation-fluorophuores width=50X}
+![Out of range for comparing the GFP with the sfGFP expression at 2% between ywkd024 and ywkd065. The middle shaded area represents the lines y=1.5x , y=x and y=0.6x](../images/Correlation-between-sfGFP-GFP-fluorophuores-exp_004-at-2-gal.png){#fig:correlation-fluorophuores width=50X}
 
-![Decoupled visualization of the same dataset of @fig:correlation-fluorophuores](../images/sfGFP-GFP-fluorophuores-exp_004-at-2%-gal.png)
+![Decoupled visualization of the same dataset of @fig:correlation-fluorophuores](../images/sfGFP-GFP-fluorophuores-exp_004-at-2-gal.png)
 
-![Correlation of ywkd065 at 0.1% galactose against ywkd024 in the same galactose concentration. Notice that here some points fall inside the shaded area, in contrast with 2% galactose.](../images/Correlation-between-sfGFP-GFP-fluorophuores-exp_004-at-0.1%-gal.png){#fig:correlation-in-0.1 width=50X}
+![Correlation of ywkd065 at 0.1% galactose against ywkd024 in the same galactose concentration. Notice that here some points fall inside the shaded area, in contrast with 2% galactose.](../images/Correlation-between-sfGFP-GFP-fluorophuores-exp_004-at-0.1-gal.png){#fig:correlation-in-0.1 width=50X}
 
 ## Conclusion
 

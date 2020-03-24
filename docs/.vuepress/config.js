@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'Experimental-Journal-PhD',
-  description: 'Just playing around'
+  title: 'Experimental progress PhD Leila Inigo de la Cruz',
+  description: 'Experimental progress PhD Leila Inigo de la Cruz'
 }
 
 module.exports = {
