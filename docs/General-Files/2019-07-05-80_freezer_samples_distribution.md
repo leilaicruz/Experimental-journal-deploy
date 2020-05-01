@@ -1,4 +1,6 @@
-# -80C Freezer SATAY box sample distribution :snowflake:
+
+# -80C Freezer SATAY box sample distribution :whale:
+
 |   | 1  |  2 |  3 | 4  | 5  |  6 | 7  | 8  | 9  |
 |:---:|---|---|---|---|---|---|---|---|---|
 | A  | bacteria containing <br> plasmid  pBK49   | Byk832T_1  |   |   |   | ylic132_5 | ylic132_5 | ylic128 | yLL135 |

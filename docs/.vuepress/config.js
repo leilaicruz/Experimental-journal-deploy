@@ -6,6 +6,30 @@ module.exports = {
 module.exports = {
   theme: 'awesome'
 }
+module.exports = {
+    plugins: [
+      [
+        'vuepress-plugin-mathjax',
+        {
+          target: 'chtml',
+          macros: {
+            '\\Z': '\\mathbb{Z}','*': '\\times',
+          },
+        },
+      ],
+    ],
+  }
+  module.exports = {
+    plugins: [
+      [
+        'vuepress-plugin-git-log',
+        {
+          additionalArgs: '--no-merge',
+          onlyFirstAndLastCommit: true,
+        },
+      ],
+    ],
+  }
 //to use .env
 require('dotenv').config();
 
