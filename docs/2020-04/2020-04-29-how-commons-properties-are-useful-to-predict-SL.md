@@ -60,8 +60,12 @@ colorlinks: true
 
 1. Variables explained:
     - **n_common**= # of common interactors between pairA(query) and pairB(target)
-    - **fraction of common partners** : $\frac{n_{common}}{len(partners of pair A)}$
+    - **fraction of common partners** : 
+    
+    $\frac{n_{common}}{len(partners of pair A)}$
+
     - **fraction of common go**= # of common go terms between pairA(query) and pairB(target)
+    
     - **type-code** : 0 if type of interaction is not SL,1 if type of interaction is SL
 
 

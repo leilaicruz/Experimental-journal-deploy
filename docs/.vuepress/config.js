@@ -1,10 +1,18 @@
 module.exports = {
-  title: 'Experimental progress PhD Leila Inigo de la Cruz',
-  description: 'Experimental progress PhD Leila Inigo de la Cruz'
+  head: [
+    ['link', { rel: 'icon', href: 'butterfly.jpg' }]
+  ]
 }
+module.exports = {
+  themeConfig: {
+    logo: 'butterfly.jpg',
+  }
+}
+
 
 module.exports = {
   theme: 'awesome'
+  
 }
 module.exports = {
     plugins: [
