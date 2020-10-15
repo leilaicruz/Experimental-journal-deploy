@@ -48,6 +48,9 @@ colorlinks: true
 
 ### Code Related
 
+- [ ] Idea to predict changes in genetic interactions from data from essential genes from SATAY.  For every mutant there are genetic interaction data and the idea is to couple this with the essential genes to investigate how the essential genes in a specific background tell us about the difference in genetic interactions. 
+    - For example the samples are every tested mutant and the features could be the density of transposon per gene in the genome and the type of interaction is registered between the knockout gene and every gene of interest. 
+
 - [ ] Do more testing on the ML workflow that from protein domains is capable of predicting synthetic lethality  in yeast. Specifically find :
     - The most important features (protein domains that are specific to SL)
     - Change the negative dataset (nonSL), make it bigger or change it, to test the specificity of the model. 

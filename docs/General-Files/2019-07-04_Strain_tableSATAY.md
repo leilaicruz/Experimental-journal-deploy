@@ -13,7 +13,7 @@
 | yEK7a   | *W303 , Mat a <br> bem1::G418 <br> bem3::NAT nrp1::HYGRO bem2::leu2 , ura3^0*   | Enzo full delete  |  From sporulation of [yLL135](M:\tnw\bn\ll\Shared\Lab-info\Strains,Plasmids,primers\Strains\Liedewij's-yeast-strains.pdf), <br> not sequenced    |
 | ylic134  | *MAT $\alpha$ can1-100 leu2-3,112 his3-11,15 <br> BUD4 from S288C <br> **ade2- URA3***   | Transformed <br> with pLL112 <br> plasmid : pRS416 (URA3 CEN6/ARSH4)   | From a plasmid <br> transformation to further <br>select for diploids <br>from the mating <br> between yEK7a and ylic134  |
 | ylic135  | *MAT $\alpha$ can1-100 leu2-3,112 his3-11,15 <br> BUD4 from S288C <br> **ade2- ura3- bem2::leu2***  | From transformation.<br> Confirmed by <br> colony PCR  | So far 2 biological replicates <br> Not yet sequenced  |
-|   |   |   |   |
+|   ylic136  | *MAT $\alpha$ can1-100 leu2-3,112 his3-11,15 <br> BUD4 from S288C <br> **ade2- ura3- nrp1::HYGRO***  | From transformation.<br> Confirmed by <br> colony PCR  | So far 4 biological replicates <br> Not yet sequenced  |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |

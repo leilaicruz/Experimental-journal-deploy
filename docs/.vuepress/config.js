@@ -1,14 +1,3 @@
-module.exports = {
-  head: [
-    ['link', { rel: 'icon', href: 'butterfly.jpg' }]
-  ]
-}
-module.exports = {
-  themeConfig: {
-    logo: 'butterfly.jpg',
-  }
-}
-
 
 module.exports = {
   theme: 'awesome'

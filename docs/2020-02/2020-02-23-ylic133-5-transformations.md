@@ -151,4 +151,6 @@ Transformation-2: To replace bem2 locus with the leu2 marker using the PCR produ
 
 - [ ] Repeat the biotek measurements using the wt strain in order to compare these mutants relative to the WT. 
 - [ ] Make a PCR from inside the leu2 marker and bem2 to check the correct integration of bem2::leu2 transformants. (colony PCR) **still is not clear the differences I see in the selected biological replicates for bem2::leu2 mutants**
+
+    - [x] Primers ordered and already arrived :)
  
