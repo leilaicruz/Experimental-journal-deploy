@@ -1,7 +1,7 @@
 
 
 
-# Title: Sequencing the homology arms of yll3a strain around the ade2 gene.
+# Title: 03062019-Sequencing the homology arms of yll3a strain around the ade2 gene :ok:.
 
 # Date
 03062019

@@ -1,11 +1,32 @@
-module.exports = {
-  title: 'Experimental-Journal-PhD',
-  description: 'Just playing around'
-}
 
 module.exports = {
   theme: 'awesome'
+  
 }
+module.exports = {
+    plugins: [
+      [
+        'vuepress-plugin-mathjax',
+        {
+          target: 'chtml',
+          macros: {
+            '\\Z': '\\mathbb{Z}','*': '\\times',
+          },
+        },
+      ],
+    ],
+  }
+  module.exports = {
+    plugins: [
+      [
+        'vuepress-plugin-git-log',
+        {
+          additionalArgs: '--no-merge',
+          onlyFirstAndLastCommit: true,
+        },
+      ],
+    ],
+  }
 //to use .env
 require('dotenv').config();
 
@@ -51,7 +72,7 @@ const sidebarArray = ["/"].concat(dirs.map((dir) => {
 module.exports = {
     title: "Experimental-Journal-PhD",
     //description : "use for meta description",
-    base: "/" + process.env.REPOSITORY + "/",
+    base: "/" + "Experimental-journal-deploy" + "/",
     config: (md) => {
         md.options.linkify = true
     },

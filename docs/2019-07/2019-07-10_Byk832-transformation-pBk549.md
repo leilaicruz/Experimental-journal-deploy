@@ -1,5 +1,5 @@
 
-# Title : Byk832 transformation using pBK549 plasmid
+# Title : 10072019-Byk832 transformation using pBK549 plasmid (:ok:)
 
 # Date
 
@@ -35,4 +35,5 @@
 ![](../images/byk832+100ng-pbk549+ade.jpg)
 
 # Conclusion
-We have to streak the colonies onto -ade plates and see that we have only few gowth and a lot of growth on -ura
+- The transformation efficiency was very low compared with the reference one. :persevere:
+- We have to streak the colonies on -ade plates and see wether we have only few growth and a lot of growth on -ura (sanity check)
